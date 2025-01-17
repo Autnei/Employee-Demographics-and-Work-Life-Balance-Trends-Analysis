@@ -1,5 +1,5 @@
 # Employee-Demographics-and-Work-Life-Balance-Trends-Analysis
-This project involved analyzing employee demographics and work-life balance trends, focusing on age, gender, industries, work locations, and hours worked to uncover key workforce patterns.(br/)
+This project involved analyzing employee demographics and work-life balance trends, focusing on age, gender, industries, work locations, and hours worked to uncover key workforce patterns.
 The following observations and recommendations were derived from the analysis:
 **KEY INSIGHTS**
 Employees aged 52–61 have the highest average work-life balance rating, suggesting that late-career employees might have established routines that enhance balance.
